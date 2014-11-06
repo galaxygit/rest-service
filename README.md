@@ -1,4 +1,4 @@
-rest-service
-============
+REST Service
+=============
 
-A REST web service build with Maven and Jersey
+A sample REST web service build with Maven and Jersey.
